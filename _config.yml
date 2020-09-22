@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.netlify.app"   #change this to yours
-repository: yourusername/yourrepository
+url: "https://behind-the-type.netlify.app"   #change this to yours
+repository: Yaz1501/behind-the-type
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
 timezone: UTC
