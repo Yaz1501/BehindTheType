@@ -1,6 +1,6 @@
 backend:
   name: Yaz1501
-  repo: Yaz1501/behind-the-type # Path to your GitHub repository
+  repo: Yaz1501/BehindTheType # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: behind-the-type.netlify.app #Your site on netlify
   use_graphql: true
