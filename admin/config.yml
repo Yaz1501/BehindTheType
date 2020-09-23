@@ -1,5 +1,5 @@
 backend:
-  name: Yaz1501
+  name: github
   repo: Yaz1501/BehindTheType # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: behind-the-type.netlify.app #Your site on netlify
