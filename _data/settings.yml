@@ -1,11 +1,11 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
+title: How Important Is Type?
+description: Explaining the importance of typography in different brands.
+header_text: Behind the Type
+footer_text: Copyright 2020 Yasmin Arnould
 header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
+gridlayout: false
+fixednavbar: true
 upzoom: true
-fixednavbar: false
