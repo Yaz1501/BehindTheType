@@ -25,3 +25,5 @@ My landing image is a monochromatic composition of different fonts and styles on
 ![](../uploads/banner2.0.png)
 
 The logo is a simple abreviated version of the name 'Behind the Type' composed of the initials 'BtT' in black on a white background for greater contrast, using the same bold version of 'Source Serif Variable'.
+
+![](../uploads/btt2.png)
