@@ -12,7 +12,7 @@ show: true
 ---
 #### About me
 
-![](../uploads/img_3811.jpg)
+![]()
 
 My name is Yasmin, and I am a second-year Media, Journalism, Publishing student at Oxford Brookes University. In these three pathways the one that interests me more is Journalism. In fact, I love analysing and reporting, I like understanding how things work, why they are there and how they affect us humans. 
 
