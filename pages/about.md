@@ -1,20 +1,27 @@
 ---
 layout: page
 title: About
+subtitle: "All about this blog and myself "
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ""
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+#### About me
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+![](../uploads/img_3811.jpg)
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+My name is Yasmin, and I am a second-year Media, Journalism, Publishing student at Oxford Brookes University. In these three pathways the one that interests me more is Journalism. In fact, I love analysing and reporting, I like understanding how things work, why they are there and how they affect us humans. 
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+#### About my blog
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+In this blog I will use my curiosity of understanding how things function to analysing the mechanics behind typography. I will analyse different scenarios in which typography is used to convey ideas, feelings and in most cases, how it is used by brands to build an identity. 
+
+My landing image is a monochromatic composition of different fonts and styles on which I have place a banner with my blog's name on. I know colour is very important in typography but I have chosen to keep it monochromatic as I think it emphasises on the power fonts have on conveying story, emotions and purposes. I used black and white for the actual name of the website to avoid confusion with the writings in the background. The font I used for writing 'Behind the Type' is a bold version of 'Source Serif Variable'. 
+
+![](../uploads/banner2.0.png)
+
+The logo is a simple abreviated version of the name 'Behind the Type' composed of the initials 'BtT' in black on a white background for greater contrast, using the same bold version of 'Source Serif Variable'.
