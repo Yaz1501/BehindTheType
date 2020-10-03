@@ -13,7 +13,7 @@ In terms of typography the brand uses two different fonts. The ‘Louboutin’ p
 
 The typography has another plus to it, it is **not symmetric**, a feature created to ensure the logo will never look boring. But the elongated ‘L’ has a horizontal flourish that keeps the composition from looking off balanced. The shape it creates mimics the perfect asymmetry of a pair of high heels.
 
-![Louboutin sign in Selfridges, London.](../uploads/louboutin-shop.jpg "Louboutin sign in Selfridges, London.")
+![Louboutin sign in Selfridges, London](../uploads/louboutin-shop.jpg "Louboutin sign in Selfridges, London")
 
 Nowadays the most common version of the Christian Louboutin writing is white on a background of the **iconic red**. However, at its origin, the brand’s typography was simply black on a white background. It was in 1993, when he became famous for the red-soled shoes, that the designer decided to add red to the typography. The origin of this red is very epic, in fact, one day, while Christian was trying to find the missing element to make his shoes stand out, he saw his assistant painting her nails, he grabbed the **nail polish** and started painting the soles of a prototype shoe. 
 
