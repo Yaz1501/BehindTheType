@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: "All about this blog and myself "
+subtitle: Me and my Blog
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ""
