@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Yasmin Arnould
 header_feature_image: ../uploads/banner3.0.png
 bannerheight: 20vmax
 logo: ../uploads/logo3.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/favicon-32x32.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
