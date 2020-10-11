@@ -17,3 +17,9 @@ In the more recent years, Netflix has changed its typography choices to represen
 ![Newer Netflix Typography](../uploads/screenshot-2020-10-06-at-17.06.56.png "Newer Netflix Typography")
 
 Netflix designers know what they are doing. They are more than aware they are successfully addictive, especially in the young masses, and they have no shame in using it for marketing purposes. Netflix know who they are, they know who they are selling to, and they know how to convey their company’s image in order to sell well and efficiently.
+
+##### References
+
+Marceau Stephanie, Netflix Analysis. Available at: <https://wra360netflix.weebly.com/introduction.html> \[Accessed on 3 October 2020] 
+
+Netflix brand assets. Available at: <https://brand.netflix.com/en/assets/> \[Accessed on 3 October 2020]
