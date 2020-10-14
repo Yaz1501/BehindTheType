@@ -6,4 +6,4 @@ header_feature_image: ../uploads/ali-yahya-tckxqhgkri-unsplash.jpg
 caption: "Photo from Unsplash "
 comments: true
 ---
-Typography is used everywhere in many different ways. Wheter printed or digital, typography is an essential element of everyday life. However, there are differences in the
+Typography is used everywhere in many different ways. Most of the time we do not even notice it, but typography is an essential element of everyday life. However, whether it is in print or on screen, fonts and typefaces are processed and used differently.
