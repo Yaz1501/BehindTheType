@@ -6,4 +6,4 @@ header_feature_image: ../uploads/ali-yahya-tckxqhgkri-unsplash.jpg
 caption: "Photo from Unsplash "
 comments: true
 ---
-font
+Typography is used everywhere in many different ways. Wheter printed or digital, typography is an essential element of everyday life. However, there are differences in the
