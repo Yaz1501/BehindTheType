@@ -10,13 +10,13 @@ Typography is used **everywhere**, in many different ways, we see it from the mo
 
 ### Type for Print
 
-**Serif fonts** have a long history, they were the first typefaces used, after the Gutenberg Press was invented. The serif is essentially the stroke given to the end of the main vertical and horizontal lines of a letter, characters without this feature are called ‘sans-serif’. Generally, serif fonts allow for a more **comfortable reading** at length, in fact, the serifs guide the eye smoothly form character to character, which makes serif fonts ideal for long form printed content.
+**Serif typefaces** have a long history, they were the first typeface used, after the Gutenberg Press was invented. The serif is essentially the stroke given to the end of the main vertical and horizontal lines of a letter, characters without this feature are called ‘sans-serif’. Generally, serif fonts allow for a more **comfortable reading** at length, in fact, the serifs guide the eye smoothly form character to character, which makes serif fonts ideal for long form printed content.
 
 The designer John Baskerville even created his own high contrast serif typeface the ‘Baskerville’. As a perfectionist he wanted a typeface that was absolutely pleasant to read, but it has so much detail that it makes it unsuitable for low resolution mediums, which makes it very illegible on certain screens. 
 
 ![Baskerville font](../uploads/unknown.png "Baskerville font")
 
-Times New Roman is a neutral typeface many claim to be neutrally apathetic. Matthew Butterick writes “Times New Roman is not a font of choice as the absence of a font choice, like the blackness of deep space is not a colour”. The font was widely used by newspapers, as it was created to be narrower and allow more words to fit on a line, to achieve this, the x-height was increased, and the tracking reduced. It was a legible and economical font for newspapers, making it ideal for print issues.
+Times New Roman is a neutral typeface many claim to be neutrally apathetic. Matthew Butterick writes “Times New Roman is not a typeface of choice as the absence of a font choice, like the blackness of deep space is not a colour”. The typeface was widely used by newspapers, as it was created to be narrower and allow more words to fit on a line, to achieve this, the x-height was increased, and the tracking reduced. It was a legible and economical font for newspapers, making it ideal for print issues.
 
 ### Type for Screen
 
@@ -30,7 +30,7 @@ Some sans-serif typefaces like ‘Verdana’ (designed in the 90s by Matthew Car
 
 ![Verdana font](../uploads/unknown-1.png "Verdana font")
 
-As screens increased in resolution the pixel matter was less of an issue. However, san-serif fonts remain a good option for screen content, specially headings and bigger text. Sans-serifs fonts usually have a low contrast, meaning the thickness of the lines are constant with different characters. This allows the reader to distinguish more easily between characters. They are considered to be harder to read in print, as they look more like blocks and don’t have the serifs allowing for flow. So, nowadays, they are most often used for short text components, in which they are very effective.
+As screens increased in resolution the pixel matter was less of an issue. However, san-serif fonts remain a good option for screen content, specially headings and bigger text. Sans-serifs typefaces usually have a low contrast, meaning the thickness of the lines are constant within different characters. This allows the reader to distinguish more easily between characters. They are considered to be harder to read in print, as they look more like blocks and don’t have the serifs allowing for flow. So, nowadays, they are most often used for short text components, in which they are very effective.
 
 ### What type should you choose
 
