@@ -24,6 +24,8 @@ The use of serif fonts was widespread in the 19th century with advertising. The 
 
 As media and digitalisation boomed there was a need for typefaces that could be read easily on screen, especially with the first technologies where everything was **pixelized**. For that reason, sans-serif fonts were ideal, they could be built of pixels, and remain legible, as they were mostly straight lines.
 
+![Text on low resolution screen](../uploads/images.jpeg "Text on low resolution screen")
+
 Some sans-serif typefaces like ‘Verdana’ (designed in the 90s by Matthew Carter for Microsoft) were designed specifically for the screen. Striving for clarity, Verdana has large x-heigh for increased legibility. Despite being designed for screen, Verdana is a humanist sans-serif. This font is very effective in low-resolution devices.
 
 ![Verdana font](../uploads/unknown-1.png "Verdana font")
