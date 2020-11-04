@@ -9,7 +9,7 @@ comments: true
 
 #### Coca-Cola
 
-Coca-Cola is a very recognisable brand all around the world and it has been like that since over **130 years**. And in these 130 years the brand design has undergone some changes. Dr Pemberton was the one to create the formula of the drink, however, it was his bookkeeper, Frank Robinson, who had the idea to call it ‘Coca-Cola’; he thought the two Cs would work well for advertising. It was also Robinson who designed the very famous Coca-Cola script. 
+Coca-Cola is a very recognisable brand all around the world and it has been like that for over **130 years**. And in these 130 years the brand design has undergone some changes. Dr Pemberton was the one to create the formula of the drink, however, it was his bookkeeper, Frank Robinson, who had the idea to call it ‘Coca-Cola’; he thought the two Cs would work well for advertising. It was also Robinson who designed the very famous Coca-Cola script. 
 
 ![First Coca-Cola script](../uploads/78207dadafb0bb668327b02d9c2c7859.jpg "First Coca-Cola script")
 
