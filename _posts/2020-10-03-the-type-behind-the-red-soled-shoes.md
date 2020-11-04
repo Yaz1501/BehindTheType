@@ -21,9 +21,7 @@ Nowadays the most common version of the Christian Louboutin writing is white on 
 
 Louboutin shoes, specially heels and their red soles became a **status symbol** people desire, when they see someone wearing a pair of heels with red soles, they know what they are, and they know what they cost.
 
-
-
-###### References
+#### References
 
 Croasdale Joshua, FBI website. Available at: <https://fashionindustrybroadcast.com/2020/07/19/christian-louboutin-mystery-of-the-high-heel-fib-designer-fashion-guides/> \[Accessed on 30 September 2020]
 
