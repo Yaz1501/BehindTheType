@@ -2,7 +2,7 @@
 layout: post
 title: The type behind the red soled shoes
 date: 2020-10-01T15:51:34.900Z
-header_feature_image: ../uploads/_57.jpg
+header_feature_image: ../uploads/712-louboutin-620x0-2.jpg
 comments: true
 ---
 Louboutin shoes are very well known for their **red soles** and are reputable for being very **fashionable** and **luxurious** shoes. Socialites like the Kardashians, singers like Beyonce and Jennifer Lopez have all been seen wearing Louboutin’s. Heels are present in almost every woman’s wardrobe but also take place in various popular myths and fairy tales like Cinderella and the Wizard of Oz. If one is asked to cite a famous high heel brand, there is a very high probability their answer will be: **Louboutin**.
