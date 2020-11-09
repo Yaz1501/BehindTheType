@@ -3,6 +3,7 @@ layout: post
 title: The types behind the corporate giant.
 date: 2020-11-09T12:05:51.411Z
 header_feature_image: ../uploads/zhiyue-xu-7dou5nlnice-unsplash.jpg
+caption: Photo by Zhiyue Xu from Unsplash
 comments: true
 ---
 **Apple**, the corporate giant. Apple is probably one of the most well-known companies in the world. iPhone, iPod, iPad, MacBook, they are everywhere! But we rarely think about the fonts and typefaces they use for their devices and the science behind it. Let’s have a look at the different typefaces Apple has used since its creation, and why they changed so many times. 
