@@ -26,4 +26,4 @@ My landing image is a monochromatic composition of different fonts and styles on
 
 The logo is a simple abreviated version of the name 'Behind the Type' composed of the initials 'BtT' in black on a light grey background, a variant of the grey I used on the banner image. The middle letter 't' is in lower case to all the emphasis on 'B' for 'Behind' and on 'T' for 'Type'. The font I used is the same bold version of 'Source Serif Variable'. As I do not have a specific theme of analysis for my blog, I am working on typography as a general topic. So this logo allows the feeling of a neutral website that can approach all sorts of themes. 
 
-![](../uploads/logo3.png)
+![](../uploads/logorect2.png)
