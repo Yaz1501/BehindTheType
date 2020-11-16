@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Type from A to Z with Amazon
+title: From A to Z with Amazon
 date: 2020-11-16T13:34:12.001Z
 header_feature_image: ../uploads/amazon-logo-meaning.jpg
 comments: true
